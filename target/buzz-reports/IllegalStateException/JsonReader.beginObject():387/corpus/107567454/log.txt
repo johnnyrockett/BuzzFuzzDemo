@@ -1,0 +1,154 @@
+    Demo
+    Finding Fuzz Constructor for type Demo
+    Couldn't find Fuzz Constructor for type Demo
+    Finding Constructor for type Demo
+    Tree
+    Finding Fuzz Constructor for type Tree
+    Couldn't find Fuzz Constructor for type Tree
+    Finding Constructor for type Tree
+        Tree.DataClass
+        Finding Fuzz Constructor for type DataClass
+        Couldn't find Fuzz Constructor for type DataClass
+        Finding Constructor for type DataClass
+        Couldn't find Constructor for type DataClass
+        Finding Local Factory for type DataClass
+        Found method makeDataClass that returns a com.buzzfuzz.buzz.demo.DataClass
+        Attempting factory method makeDataClass from com.buzzfuzz.buzz.demo.DataClass
+            Tree.DataClass.int
+            Tree.DataClass.String
+            Tree.DataClass.boolean
+            Tree.DataClass.float
+        Using args: [450466155, cГ, true, 3758023.2]
+        Tree.List<com.buzzfuzz.buzz.demo.DataClass>
+        Creating List of type: DataClass
+            Tree.List<com.buzzfuzz.buzz.demo.DataClass>.DataClass
+            Finding Fuzz Constructor for type DataClass
+            Couldn't find Fuzz Constructor for type DataClass
+            Finding Constructor for type DataClass
+            Couldn't find Constructor for type DataClass
+            Finding Local Factory for type DataClass
+            Found method makeDataClass that returns a com.buzzfuzz.buzz.demo.DataClass
+            Attempting factory method makeDataClass from com.buzzfuzz.buzz.demo.DataClass
+                Tree.List<com.buzzfuzz.buzz.demo.DataClass>.DataClass.int
+                Tree.List<com.buzzfuzz.buzz.demo.DataClass>.DataClass.String
+                Tree.List<com.buzzfuzz.buzz.demo.DataClass>.DataClass.boolean
+                Tree.List<com.buzzfuzz.buzz.demo.DataClass>.DataClass.float
+            Using args: [1640354833, ʶ+��/�p����9`�S5r�, false, -4071716.2]
+            Tree.List<com.buzzfuzz.buzz.demo.DataClass>.DataClass
+            Finding Fuzz Constructor for type DataClass
+            Couldn't find Fuzz Constructor for type DataClass
+            Finding Constructor for type DataClass
+            Couldn't find Constructor for type DataClass
+            Finding Local Factory for type DataClass
+            Found method makeDataClass that returns a com.buzzfuzz.buzz.demo.DataClass
+            Attempting factory method makeDataClass from com.buzzfuzz.buzz.demo.DataClass
+                Tree.List<com.buzzfuzz.buzz.demo.DataClass>.DataClass.int
+                Tree.List<com.buzzfuzz.buzz.demo.DataClass>.DataClass.String
+                Tree.List<com.buzzfuzz.buzz.demo.DataClass>.DataClass.boolean
+                Tree.List<com.buzzfuzz.buzz.demo.DataClass>.DataClass.float
+            Using args: [-269420307, �5݀�;沬i�, true, -9.126233E-23]
+            Tree.List<com.buzzfuzz.buzz.demo.DataClass>.DataClass
+            Finding Fuzz Constructor for type DataClass
+            Couldn't find Fuzz Constructor for type DataClass
+            Finding Constructor for type DataClass
+            Couldn't find Constructor for type DataClass
+            Finding Local Factory for type DataClass
+            Found method makeDataClass that returns a com.buzzfuzz.buzz.demo.DataClass
+            Attempting factory method makeDataClass from com.buzzfuzz.buzz.demo.DataClass
+                Tree.List<com.buzzfuzz.buzz.demo.DataClass>.DataClass.int
+                Tree.List<com.buzzfuzz.buzz.demo.DataClass>.DataClass.String
+                Tree.List<com.buzzfuzz.buzz.demo.DataClass>.DataClass.boolean
+                Tree.List<com.buzzfuzz.buzz.demo.DataClass>.DataClass.float
+            Using args: [596696824, ˵�A]��)�, false, -3.4059967E23]
+            Tree.List<com.buzzfuzz.buzz.demo.DataClass>.DataClass
+            Finding Fuzz Constructor for type DataClass
+            Couldn't find Fuzz Constructor for type DataClass
+            Finding Constructor for type DataClass
+            Couldn't find Constructor for type DataClass
+            Finding Local Factory for type DataClass
+            Found method makeDataClass that returns a com.buzzfuzz.buzz.demo.DataClass
+            Attempting factory method makeDataClass from com.buzzfuzz.buzz.demo.DataClass
+                Tree.List<com.buzzfuzz.buzz.demo.DataClass>.DataClass.int
+                Tree.List<com.buzzfuzz.buzz.demo.DataClass>.DataClass.String
+                Tree.List<com.buzzfuzz.buzz.demo.DataClass>.DataClass.boolean
+                Tree.List<com.buzzfuzz.buzz.demo.DataClass>.DataClass.float
+            Using args: [529363340, �g��c��-"���#"җ;�z��;, false, 6.0487585E-4]
+            Tree.List<com.buzzfuzz.buzz.demo.DataClass>.DataClass
+            Finding Fuzz Constructor for type DataClass
+            Couldn't find Fuzz Constructor for type DataClass
+            Finding Constructor for type DataClass
+            Couldn't find Constructor for type DataClass
+            Finding Local Factory for type DataClass
+            Found method makeDataClass that returns a com.buzzfuzz.buzz.demo.DataClass
+            Attempting factory method makeDataClass from com.buzzfuzz.buzz.demo.DataClass
+                Tree.List<com.buzzfuzz.buzz.demo.DataClass>.DataClass.int
+                Tree.List<com.buzzfuzz.buzz.demo.DataClass>.DataClass.String
+                Tree.List<com.buzzfuzz.buzz.demo.DataClass>.DataClass.boolean
+                Tree.List<com.buzzfuzz.buzz.demo.DataClass>.DataClass.float
+            Using args: [-33413388, �C�ΧCx, true, 1.3181433E-19]
+            Tree.List<com.buzzfuzz.buzz.demo.DataClass>.DataClass
+            Finding Fuzz Constructor for type DataClass
+            Couldn't find Fuzz Constructor for type DataClass
+            Finding Constructor for type DataClass
+            Couldn't find Constructor for type DataClass
+            Finding Local Factory for type DataClass
+            Found method makeDataClass that returns a com.buzzfuzz.buzz.demo.DataClass
+            Attempting factory method makeDataClass from com.buzzfuzz.buzz.demo.DataClass
+                Tree.List<com.buzzfuzz.buzz.demo.DataClass>.DataClass.int
+                Tree.List<com.buzzfuzz.buzz.demo.DataClass>.DataClass.String
+                Tree.List<com.buzzfuzz.buzz.demo.DataClass>.DataClass.boolean
+                Tree.List<com.buzzfuzz.buzz.demo.DataClass>.DataClass.float
+            Using args: [782695787, ��`.��c, true, 1.4199588E34]
+            Tree.List<com.buzzfuzz.buzz.demo.DataClass>.DataClass
+            Finding Fuzz Constructor for type DataClass
+            Couldn't find Fuzz Constructor for type DataClass
+            Finding Constructor for type DataClass
+            Couldn't find Constructor for type DataClass
+            Finding Local Factory for type DataClass
+            Found method makeDataClass that returns a com.buzzfuzz.buzz.demo.DataClass
+            Attempting factory method makeDataClass from com.buzzfuzz.buzz.demo.DataClass
+                Tree.List<com.buzzfuzz.buzz.demo.DataClass>.DataClass.int
+                Tree.List<com.buzzfuzz.buzz.demo.DataClass>.DataClass.String
+                Tree.List<com.buzzfuzz.buzz.demo.DataClass>.DataClass.boolean
+                Tree.List<com.buzzfuzz.buzz.demo.DataClass>.DataClass.float
+            Using args: [-1627049324, �~$-g��o*Ur�e�)y��L�,	, true, -5.184889E21]
+            Tree.List<com.buzzfuzz.buzz.demo.DataClass>.DataClass
+            Finding Fuzz Constructor for type DataClass
+            Couldn't find Fuzz Constructor for type DataClass
+            Finding Constructor for type DataClass
+            Couldn't find Constructor for type DataClass
+            Finding Local Factory for type DataClass
+            Found method makeDataClass that returns a com.buzzfuzz.buzz.demo.DataClass
+            Attempting factory method makeDataClass from com.buzzfuzz.buzz.demo.DataClass
+                Tree.List<com.buzzfuzz.buzz.demo.DataClass>.DataClass.int
+                Tree.List<com.buzzfuzz.buzz.demo.DataClass>.DataClass.String
+                Returning null instead of instance
+                Tree.List<com.buzzfuzz.buzz.demo.DataClass>.DataClass.boolean
+                Tree.List<com.buzzfuzz.buzz.demo.DataClass>.DataClass.float
+            Using args: [-1897082881, null, false, 7.3536165E-15]
+            Tree.List<com.buzzfuzz.buzz.demo.DataClass>.DataClass
+            Finding Fuzz Constructor for type DataClass
+            Couldn't find Fuzz Constructor for type DataClass
+            Finding Constructor for type DataClass
+            Couldn't find Constructor for type DataClass
+            Finding Local Factory for type DataClass
+            Found method makeDataClass that returns a com.buzzfuzz.buzz.demo.DataClass
+            Attempting factory method makeDataClass from com.buzzfuzz.buzz.demo.DataClass
+                Tree.List<com.buzzfuzz.buzz.demo.DataClass>.DataClass.int
+                Tree.List<com.buzzfuzz.buzz.demo.DataClass>.DataClass.String
+                Tree.List<com.buzzfuzz.buzz.demo.DataClass>.DataClass.boolean
+                Tree.List<com.buzzfuzz.buzz.demo.DataClass>.DataClass.float
+            Using args: [-152367866, ���&G�Y~��r໮�7k�, true, -2.4947907E-14]
+            Tree.List<com.buzzfuzz.buzz.demo.DataClass>.DataClass
+            Finding Fuzz Constructor for type DataClass
+            Couldn't find Fuzz Constructor for type DataClass
+            Finding Constructor for type DataClass
+            Couldn't find Constructor for type DataClass
+            Finding Local Factory for type DataClass
+            Found method makeDataClass that returns a com.buzzfuzz.buzz.demo.DataClass
+            Attempting factory method makeDataClass from com.buzzfuzz.buzz.demo.DataClass
+                Tree.List<com.buzzfuzz.buzz.demo.DataClass>.DataClass.int
+                Tree.List<com.buzzfuzz.buzz.demo.DataClass>.DataClass.String
+                Tree.List<com.buzzfuzz.buzz.demo.DataClass>.DataClass.boolean
+                Tree.List<com.buzzfuzz.buzz.demo.DataClass>.DataClass.float
+            Using args: [1664873536, �8q�mq�i���L�, true, -2.0744757E24]

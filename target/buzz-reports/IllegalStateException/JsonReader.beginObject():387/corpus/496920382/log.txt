@@ -1,0 +1,23 @@
+    Demo
+    Finding Fuzz Constructor for type Demo
+    Couldn't find Fuzz Constructor for type Demo
+    Finding Constructor for type Demo
+    Tree
+    Finding Fuzz Constructor for type Tree
+    Couldn't find Fuzz Constructor for type Tree
+    Finding Constructor for type Tree
+        Tree.DataClass
+        Finding Fuzz Constructor for type DataClass
+        Couldn't find Fuzz Constructor for type DataClass
+        Finding Constructor for type DataClass
+        Couldn't find Constructor for type DataClass
+        Finding Local Factory for type DataClass
+        Found method makeDataClass that returns a com.buzzfuzz.buzz.demo.DataClass
+        Attempting factory method makeDataClass from com.buzzfuzz.buzz.demo.DataClass
+            Tree.DataClass.int
+            Tree.DataClass.String
+            Tree.DataClass.boolean
+            Tree.DataClass.float
+        Using args: [1025530447, $�q�, true, 1.2815336E-22]
+        Tree.List<com.buzzfuzz.buzz.demo.DataClass>
+        Creating List of type: DataClass

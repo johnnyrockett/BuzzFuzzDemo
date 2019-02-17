@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<config>
+  <scopes>
+    <scope>
+      <target>
+        <instancePath>Demo</instancePath>
+      </target>
+      <constraint>
+        <nullProb>0.4586615162216908</nullProb>
+        <prob>0.8593857209608584</prob>
+      </constraint>
+    </scope>
+    <scope>
+      <target>
+        <instancePath>Tree</instancePath>
+      </target>
+      <constraint>
+        <nullProb>0.11562453631056402</nullProb>
+        <prob>0.6006190055050278</prob>
+      </constraint>
+    </scope>
+  </scopes>
+</config>
