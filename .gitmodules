@@ -1,0 +1,6 @@
+[submodule "buzztools"]
+	path = buzztools
+	url = https://github.com/johnnyrockett/buzztools.git
+[submodule "JavaFuzzer"]
+	path = JavaFuzzer
+	url = https://github.com/johnnyrockett/JavaFuzzer.git
