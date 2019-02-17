@@ -6,7 +6,6 @@ public class DataClass {
 	private int iVal;
 	@SuppressWarnings("unused")
 	private String sVal;
-	@SuppressWarnings("unused")
 	private boolean bVal;
 	@SuppressWarnings("unused")
 	private float fVal;
@@ -22,5 +21,9 @@ public class DataClass {
 	// Factory method example
 	public static DataClass makeDataClass(int iVal, String sVal, boolean bVal, float fVal) {
 		return new DataClass(iVal, sVal, bVal, fVal);
+	}
+	
+	public void alter() {
+		this.bVal = !this.bVal;
 	}
 }
