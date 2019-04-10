@@ -37,7 +37,7 @@ public class Tree {
         }
     }
     
-    public void alter() {
+    public void alter() throws Exception {
     		this.data.alter();
     		for (Tree child : this.children) {
     			child.alter();

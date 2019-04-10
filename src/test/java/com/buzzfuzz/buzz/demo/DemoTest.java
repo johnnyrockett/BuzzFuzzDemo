@@ -26,7 +26,7 @@ public class DemoTest
     
     
     @Fuzz
-    public static void listTest( List<DataClass> list ) {
+    public static void listTest( List<DataClass> list ) throws Exception {
     		for (DataClass dc: list) { // CRASH: list could be null
     			dc.alter();
     		}

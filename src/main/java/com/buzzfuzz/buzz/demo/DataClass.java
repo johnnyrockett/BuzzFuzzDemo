@@ -23,7 +23,9 @@ public class DataClass {
 		return new DataClass(iVal, sVal, bVal, fVal);
 	}
 	
-	public void alter() {
-		this.bVal = !this.bVal;
+	public void alter() throws Exception {
+        this.bVal = !this.bVal;
+        if (fVal < 500 && iVal > 500)
+            throw new Exception("Invalid fVal");
 	}
 }
